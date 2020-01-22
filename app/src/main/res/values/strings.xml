@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Office Management</string>
+    <string name="errorMessage">Incorrect username or password.Check that you have entered the correct username and password and try again.</string>
+    <string name="login">Login</string>
+    <string name="user_id">User Name</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="useriderror">Enter a valid user name</string>
+    <string name="password_null">Enter a valid password</string>
+    <string name="logout">Sign Out</string>
+</resources>
